@@ -9,6 +9,8 @@ O time que está na defesa precisa escolher também uma de três jogadas defensi
 2. Bote
 3. Bloqueio
 O resultado da jogada se dá na combinação dessas duas escolhas, portanto os times devem decidir em segredo e exibir ao mesmo tempo qual foi a jogada escolhida.
+
+>Para simplicidade, os dois times podem fazer um "pedra, papel ou tesoura", se o ataque vencer, ele avança, defesa vencendo, ocorre recuo e em caso de empate a dividida.
 ## Resultados possíveis
 ### ERRAR A JOGADA:
 O atacante não avança e deve recuar a bola para o próximo atacante perdendo 10m espaço de campo. Esse atacante não pode fazer mais nenhuma jogada nessa posse de bola.

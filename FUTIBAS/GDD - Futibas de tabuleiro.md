@@ -26,7 +26,7 @@ Os jogadores devem sentir a mesma tensão de um torcedor em final de campeonato,
 #### MATERIAL:
 [[REGRAS]]
 [[RESOLUÇÃO DE JOGADAS]]
-
+[[Características especiais]]
 
 ![[Infográfico de jogadas.png]]
 

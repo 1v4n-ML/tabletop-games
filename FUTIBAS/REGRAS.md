@@ -19,9 +19,9 @@ Um chute com valor negativo é considerado uma furada! O time adversário inicia
 A não ser que os jogadores optem por um acordo, a primeira posse de bola é definida por uma rolagem de dado onde o time vencedor começa com a posse no meio de campo. Quando nenhum dos dois times tiver mais posses de bola: é declarado o intervalo, a contagem de posses é reiniciada e o time que começou defendendo inicia o segundo tempo com a posse de bola no meio de campo.
 
 ### POSSES DE BOLA
-Cada time pode iniciar uma nova posse de bola 3 vezes a cada tempo, independente do que causar a troca de posse. Durante uma posse o time precisa utilizar de forma inteligente seus atacantes (quantos forem definidos na escalação) e no máximo 10 jogadas para avançar e superar a defesa adversária.
-Quando o time com a posse de bola esgota jogadores **ou** jogadas mas ainda possui do outro recurso, o time pode optar por gastar mais uma posse e continuar na ofensiva reiniciando o contador de jogadas ou trazendo seus atacantes de volta ao jogo (o time na defesa não recebe nada).
-Se ambos os recursos do time ofensivo esgotarem ou ele optar por não gastar outra posse, é feito um chute a gol da posição atual da bola.
+Cada time pode iniciar uma nova posse de bola 3 vezes a cada tempo, independente do que causar a troca de posse. Durante uma posse o time precisa utilizar de forma inteligente seus atacantes (quantos forem definidos na escalação)  para avançar e superar a defesa adversária.
+Quando o time com a posse de bola esgota jogadores, o time pode optar por gastar mais uma posse e continuar na ofensiva trazendo seus atacantes de volta ao jogo (o time na defesa não recebe nada).
+Se os recursos do time ofensivo esgotarem ou ele optar por não gastar outra posse, é feito um chute a gol da posição atual da bola.
 Quando o time com a posse supera **TODOS** os defensores do time adversário, todos os atacantes disponíveis vão automaticamente para dentro da área adversária e recebem uma chance extra de chute a gol.
-Caso um time obtenha a posse de bola depois de já ter usado todas as disponíveis naquele tempo, ele imediatamente devolve a bola e o adversário inicia uma nova posse de bola do meio de campo.
+Caso um time obtenha a posse de bola depois de já ter usado todas as posses disponíveis naquele tempo, ele imediatamente devolve a bola e o adversário inicia uma nova posse de bola do meio de campo.
 
